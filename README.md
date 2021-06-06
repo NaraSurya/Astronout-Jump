@@ -1,5 +1,5 @@
 # Astronout-Jump
-Pemrograman Game Mobile \n
-
-Nama : Ida Bagus Agung Nara Surya Darma \n
-NIM : 1705551075
+Pemrograman Game Mobile 
+<br/>
+Nama : Ida Bagus Agung Nara Surya Darma <br/>
+NIM : 1705551075 <br/>
